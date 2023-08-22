@@ -22,3 +22,13 @@ Install it using following commad:
 and then use run it using following command 
    >npx parcel index.html or
    >npx parcel src/index.html
+
+5. Use Faker for Testing
+Faker is a popular library that generates fake (but reasonable) data that can be used for things such as:
+   - Unit Testing
+   - Performance Testing
+   - Building Demos
+   - Working without a completed backend
+Install as Dev dependency:
+> npm install @faker-js/faker --save-dev
+6. 
