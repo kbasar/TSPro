@@ -15,5 +15,10 @@ Comand line to compile Ts file:
 3. Install axios package
 > npm install axios
 
-4. Use following command to run app locally
-   >npx parcel index.html
+4. Parcel has a development server built in, which will automatically rebuild your app as you make changes. To start it, run the parcel CLI pointing to your entry file:
+Install it using following commad:
+> npm install --save-dev parcel
+
+and then use run it using following command 
+   >npx parcel index.html or
+   >npx parcel src/index.html
