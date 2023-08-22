@@ -12,3 +12,6 @@ Comand line to compile Ts file:
 2. Install VS Code IDE for programming editor
 > Install Prettier plugin into VScode
 
+3. Install axios package
+> npm install axios
+
