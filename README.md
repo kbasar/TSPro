@@ -19,6 +19,7 @@ Comand line to compile Ts file:
 4. Parcel has a development server built in, which will automatically rebuild your app as you make changes. To start it, run the parcel CLI pointing to your entry file:
 Install it using following commad:
 > npm install --save-dev parcel
+> npm install parcel-bundler --save-dev
 
 and then use run it using following command 
    >npx parcel index.html or
