@@ -15,3 +15,5 @@ Comand line to compile Ts file:
 3. Install axios package
 > npm install axios
 
+4. Use following command to run app locally
+   >npx parcel index.html
