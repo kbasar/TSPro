@@ -5,6 +5,7 @@ TypeScript Pro - Basic Concept of Typescript to Understanding Design Pattern for
 
 1. Typescript -> for programming using TS and ts-node is for compiling typescript. Once you install ts-node you should be able to compile Ts files using command line.
 > npm install -g typescript ts-node
+> npm init (to generate package.json file)
 
 Comand line to compile Ts file:
 > tsc --help
