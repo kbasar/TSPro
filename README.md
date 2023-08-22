@@ -30,7 +30,9 @@ Faker is a popular library that generates fake (but reasonable) data that can be
    - Performance Testing
    - Building Demos
    - Working without a completed backend
-Install as Dev dependency:
+Install following faker, as after this it has issue breaking it
+> npm i faker@5.5.3
+Install as Dev dependency type definition file:
 > npm install @faker-js/faker --save-dev
 6. Plan to install Typed Definition file if you are planning to use Javascript Library in TypeScript project. Package format would be like @types/{library}.
 
