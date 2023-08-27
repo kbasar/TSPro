@@ -40,7 +40,9 @@ Install as Dev dependency type definition file:
 
 7. Install typescript globally
    > npm install typescript@latest -g
-Generate tsconfig.json file:
+Generate tsconfig.json file
    > tsc --init
+Know tsc version:
+   > tsc --version
    
 
