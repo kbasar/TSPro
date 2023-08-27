@@ -36,4 +36,5 @@ Install following faker, as after this it has issue breaking it
 Install as Dev dependency type definition file:
 > npm install @faker-js/faker --save-dev
 6. Plan to install Typed Definition file if you are planning to use Javascript Library in TypeScript project. Package format would be like @types/{library}.
+> npm i -D @types/google.maps
 
