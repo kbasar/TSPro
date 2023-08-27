@@ -38,3 +38,9 @@ Install as Dev dependency type definition file:
 6. Plan to install Typed Definition file if you are planning to use Javascript Library in TypeScript project. Package format would be like @types/{library}.
 > npm i -D @types/google.maps
 
+7. Install typescript globally
+   > npm install typescript@latest -g
+Generate tsconfig.json file:
+   > tsc --init
+   
+
